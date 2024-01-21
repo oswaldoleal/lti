@@ -1,0 +1,6 @@
+[submodule "backend-lti"]
+	path = backend-lti
+	url = git@github.com:oswaldoleal/backend-lti.git
+[submodule "front-lti"]
+	path = front-lti
+	url = git@github.com:julianuri/front-lti.git
